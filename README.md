@@ -1,12 +1,12 @@
 ## Hi there, I'm Emre Aslan 👋
 
-## I'm a hacker, developer and maker!
+## I'm hacker, developer and maker!
 
-- 🔭 I’m currently working on HackerOne, BugCrowd, BugBounter and other VDPS!
+🔭 I’m currently working on HackerOne, BugCrowd, BugBounter and other VDPS!
 
 ## Connect with me:
 
-[<img align="left" alt="aslanewre | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<img align="left" alt="aslanewre | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />twitter
 
 <br />
 
