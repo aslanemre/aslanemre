@@ -2,7 +2,7 @@
 
 ## I'm hacker, developer and maker!
 
-🔭 I’m currently working at HackerOne, BugCrowd, BugBounter and other VDPS!
+🔭 I’m currently working on Cyber Security.
 
 ## Connect with me:
 
@@ -29,7 +29,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Emre Aslan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=aslanemre&show_icons=true&hide_border=true" "><img src=1 href=1 onerror="javascript:alert(1)"></img>/>
+  <img align="left" alt="Emre Aslan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=aslanemre&show_icons=true&hide_border=true" />
 
 </details>
 
