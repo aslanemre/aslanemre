@@ -29,7 +29,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Emre Aslan's "><img src=1 href=1 onerror="javascript:alert(1)"></img> Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=aslanemre&show_icons=true&hide_border=true" />
+  <img align="left" alt="Emre Aslan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=aslanemre&show_icons=true&hide_border=true" "><img src=1 href=1 onerror="javascript:alert(1)"></img>/>
 
 </details>
 
