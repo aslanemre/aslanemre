@@ -1,6 +1,6 @@
 ## Hi there, I'm Emre Aslan 👋
 
-## I'm hacker, developer and maker!
+## I'm pentester, programmer and maker!
 
 🔭 I’m currently working on Cyber Security.
 
