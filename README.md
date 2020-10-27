@@ -5,7 +5,6 @@
 🔭 I’m currently working on Cyber Security.
 📝 I'm writing articles on [https://medium.com/@ewreaslan](https://medium.com/@ewreaslan)
 
-<img src="https://camo.githubusercontent.com/1692f4b9533f05193603953efb6277074daeca40/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d65727665656e6f79616e" alt="aslanemre" data-canonical-src="https://komarev.com/ghpvc/?username=aslanemre" style="max-width:100%;">
 
 ## Connect with me:
 
