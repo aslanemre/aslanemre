@@ -3,7 +3,7 @@
 ## I'm penetration tester & programmer.
 
 🔭 I’m currently working on Cyber Security.
-📝 I'm writing articles on [https://medium.com/@ewreaslan](https://medium.com/@ewreaslan)
+📝 I'm writing articles on [Medium]
 
 
 ## Connect with me:
@@ -39,5 +39,6 @@
 </details>
 
 [twitter]: https://twitter.com/aslanewre
-[instagram]: https://instagram.com/aslanewre
+[instagram]: https://instagram.com/emreaslan1337
 [linkedin]: https://linkedin.com/in/emre-a-6b7958157/
+[Medium]: https://medium.com/@ewreaslan
