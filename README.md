@@ -42,5 +42,5 @@
 
 [twitter]: https://twitter.com/aslanewre
 [instagram]: https://instagram.com/emreaslan1337
-[linkedin]: https://linkedin.com/in/emre-a-6b7958157/
+[linkedin]: https://linkedin.com/in/emreaslany
 [Medium]: https://ewreaslan.medium.com
