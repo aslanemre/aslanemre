@@ -33,12 +33,6 @@
 
 </details>
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Emre Aslan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=aslanemre&show_icons=true&hide_border=true" />
-
-</details>
 
 [twitter]: https://twitter.com/aslanewre
 [instagram]: https://instagram.com/emreaslan1337
