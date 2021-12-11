@@ -35,6 +35,6 @@
 
 
 [twitter]: https://twitter.com/aslanewre
-[instagram]: https://instagram.com/emreaslan1337
+[instagram]: https://instagram.com/aslanewre
 [linkedin]: https://linkedin.com/in/emreaslany
 [Medium]: https://aslanemre.medium.com
