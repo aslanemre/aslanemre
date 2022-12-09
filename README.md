@@ -34,7 +34,7 @@
 </details>
 
 
-[twitter]: https://twitter.com/aslanewre
-[instagram]: https://instagram.com/aslanewre
+[twitter]: https://twitter.com/llordcommander
+[instagram]: https://instagram.com/aslanemrey
 [linkedin]: https://linkedin.com/in/emreaslany
 [Medium]: https://aslanemre.medium.com
