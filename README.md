@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Emre Aslan 👋</h1>
 
-## I'm penetration tester & programmer.
+## I'm Red Team Offensive Security Engineer
 
 🔭 I’m currently working on Cyber Security.
 📝 I'm writing articles on [Medium]
@@ -9,7 +9,6 @@
 ## Connect with me:
 
 [<img align="left" alt="aslanewre | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="aslanewre | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="aslanewre | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
@@ -34,7 +33,6 @@
 </details>
 
 
-[twitter]: https://twitter.com/llordcommander
-[instagram]: https://instagram.com/aslanemrey
+[twitter]: https://twitter.com/aslanewre
 [linkedin]: https://linkedin.com/in/emreaslany
 [Medium]: https://aslanemre.medium.com
